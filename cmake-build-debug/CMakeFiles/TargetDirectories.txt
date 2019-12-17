@@ -1,0 +1,3 @@
+/Users/dmitrij/CLionProjects/pk3tsis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dmitrij/CLionProjects/pk3tsis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrij/CLionProjects/pk3tsis/cmake-build-debug/CMakeFiles/pk3tsis.dir
